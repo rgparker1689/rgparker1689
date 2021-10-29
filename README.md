@@ -1,12 +1,12 @@
 
 ![](https://raw.githubusercontent.com/rgparker1689/rgparker1689/main/github-banner.png)
 # About Me
-I am a rising junior at the University of Alabama pursuing a bachelor's degree in Computer Science to be completed by May of 2023. I am also a part of UA's STEM to MBA track as well as the Accelerated Masters Program (for M.C.S). My interests include data science/engineering and machine learning, especially as they relate to previously unnoticed trends in audio-related time-series and beyond. 
+I am a rising junior at the University of Alabama pursuing a bachelor's degree with majors in Computer Science and Mathematics (w/ a concentration in Statistics & Optimization) to be completed by May of 2023. I am also a part of UA's Accelerated Masters Program (for M.C.S). My interests include data science/engineering and machine learning, especially as they relate to previously unnoticed trends in audio-related time-series and beyond. 
 
 ## What I'm Working On
 
  1. I am currently working with UA's [EcoCAR](https://avtcseries.org/ecocar-mobility-challenge/) Machine Learning subteam.
- 2. I am beginning undergraduate research at UA in human activity and gesture recognition with radar.
+ 2. I am doing undergraduate research at UA in human activity and gesture recognition with radar.
  3. On a personal note, I am working on a number of projects centered around classifying and breaking down supplied .wav files containing drum grooves. My progress can be found in my groove-ml repo. I am currently working with Python (Librosa, Keras, etc.) but have also been learning other languages such as R.
  
 	 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgparker1689&repo=groove-ml)](https://github.com/rgparker1689/groove-ml)
