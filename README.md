@@ -1,5 +1,5 @@
 # About Me
-I am a rising junior at the University of Alabama pursuing a bachelor's degree with majors in Computer Science and Mathematics (w/ a concentration in Statistics & Optimization) to be completed by May of 2023. I am also a part of UA's Accelerated Masters Program (for M.C.S). My interests include data science/engineering and machine learning, especially as they relate to previously unnoticed trends in audio-related time-series and beyond. 
+I am a rising junior at the University of Alabama pursuing a bachelor's degree with majors in Computer Science and Mathematics (w/ a concentration in Statistics & Optimization). I am also a part of UA's Accelerated Masters Program (for M.C.S) to be completed by December of 2023. My interests include data science/engineering and machine learning, especially as they relate to previously unnoticed trends in audio-related time-series and beyond. 
 
 ## What I'm Working On
 
