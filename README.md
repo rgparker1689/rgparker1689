@@ -3,9 +3,8 @@ I am a rising junior at the University of Alabama pursuing a bachelor's degree w
 
 ## What I'm Working On
 
- 1. I am currently working with UA's [EcoCAR](https://avtcseries.org/ecocar-mobility-challenge/) Machine Learning subteam.
- 2. I am doing undergraduate research at UA in human activity and gesture recognition with radar.
- 3. On a personal note, I am working on a number of projects centered around classifying and breaking down supplied .wav files containing drum grooves. My progress can be found in my groove-ml repo. I am currently working with Python (Librosa, Keras, etc.) but have also been learning other languages such as R.
+ 1. I am doing undergraduate research at UA in human activity and gesture recognition with radar.
+ 2. On a personal note, I am working on a number of projects centered around classifying and breaking down supplied .wav files containing drum grooves. My progress can be found in my groove-ml repo. I am currently working with Python (Librosa, Keras, etc.) but have also been learning other languages such as R.
  
 	 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgparker1689&repo=groove-ml)](https://github.com/rgparker1689/groove-ml)
 
