@@ -1,11 +1,4 @@
-# About Me
-I am a rising junior at the University of Alabama pursuing a bachelor's degree with majors in Computer Science and Mathematics (w/ a concentration in Statistics & Optimization). I am also a part of UA's Accelerated Masters Program (for M.C.S) to be completed by December of 2023. My interests include data science/engineering and machine learning, especially as they relate to previously unnoticed trends in audio-related time-series and beyond. 
 
-## What I'm Working On
-
- 1. I am doing undergraduate research at UA in human activity and gesture recognition with radar.
- 2. On a personal note, I am working on a number of projects centered around classifying and breaking down supplied .wav files containing drum grooves. My progress can be found in my groove-ml repo. I am currently working with Python (Librosa, Keras, etc.) but have also been learning other languages such as R.
- 
 	 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgparker1689&repo=groove-ml)](https://github.com/rgparker1689/groove-ml)
 
 
