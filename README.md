@@ -1,5 +1,4 @@
-
-	 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgparker1689&repo=groove-ml)](https://github.com/rgparker1689/groove-ml)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgparker1689&repo=groove-ml)](https://github.com/rgparker1689/groove-ml)
 
 
 # Skills and More
